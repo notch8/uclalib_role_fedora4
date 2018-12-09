@@ -16,3 +16,8 @@ fedora_admin_password: password
 
 # Fedora Server FQDN
 fedora_server_fqdn: "fedora-server.library.ucla.edu"
+
+# AWS Credentials
+aws_access_key_id: FIXME
+aws_secret_key: FIXME
+aws_bucket: FIXME

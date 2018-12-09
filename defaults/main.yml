@@ -35,6 +35,11 @@ fedora_db_host: localhost
 fedora_db_port: 3306
 fedora_db_name: fcrepo
 
+# defaults for S3
+aws_access_key_id: FIXME
+aws_secret_key: FIXME
+aws_bucket: FIXME
+
 # Define the directory to hold configuration files outside of the fedora war
 fedora_config_dir: /etc/fedora
 
